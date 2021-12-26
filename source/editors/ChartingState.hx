@@ -90,7 +90,9 @@ class ChartingState extends MusicBeatState
 		['LinearSpin', "Makes the Receptors move in a circular motion\nBOTH VALUES ARE REQUIRED FOR THE EFFECT\nValue 1: How long to tween for (in seconds)\nValue 2: How big of a tween (in degrees) (360 for one spin, 720 for 2 spins)"],
 		['Opponent Fade', "Smoothly sets the Opponent's transparency value.\nValue 1: Duration (0 = Instant)\nValue 2: Target transparency value"],
 		['HealthDrain', "Drains players health when opponent sings\nAt a specific time.\nValue 1: How much health to drain when opponent sings (0.5 recommended)\nValue 2: Lowest Health Possible From Drain (0.01 recommened)"],
-		['MoveArrow', "Change Note Position\nValue 1: Note (0-7)\nValue 2: x value, y value, rotation, opacity (0-1), duration"]
+		['MoveArrow', "Change Note Position\nValue 1: Note (0-7)\nValue 2: x value, y value, rotation, opacity (0-1), duration"],
+		['Cheating Notes', "Put Nothing LOL"]
+
 	];
 
 	var _file:FileReference;
