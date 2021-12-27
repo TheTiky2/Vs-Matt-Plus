@@ -47,10 +47,16 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
                         ['Vs Matt Plus'],
-			['Mr Tiky',		    'mrtiky',		    'Main coder, make the songs, sprite of my custom wiik 5 6 etc,	 'https://m.youtube.com/channel/UCfvw4vqGD-RqvXP1tkH-tFA',	'0xFFC30085'],
+			['Mr Tiky',		    'mrtiky',		    'Main Coder of The mod, sprite, songs and wiik 5-6 etc',	 'https://m.youtube.com/channel/UCfvw4vqGD-RqvXP1tkH-tFA',	'0xFFC30085'],
 			['Others Credits of mod'],
 			['Kay7',		    'kay7',		    'The tester of mod in mobile',	 'https://m.youtube.com/channel/UCT1w5Z3StJjiAQ7upxjVLYA',	'0xFFC30085'],
-			['Blue Crewmate,		    'blue',		    'The tester of mod in pc',	 '',	'0xFFC30085'],
+			['Blue Crewmate',		    'blue',		    'The tester of mod in pc',	 '',	'0xFFC30085'],
+                        ['Special Credits'],
+			['Sulayre',		    'sulayre',		    'The Creator of matt wiik 1 2',	 '',	'0xFFC30085'],
+			['silk88',		    'silk88',		    'The Creator of matt wiik 3',	 '',	'0xFFC30085'],
+			['Robomaster and more',		    'robomaster',		    'The Creator of matt wiik 4',	 '',	'0xFFC30085'],
+			['Rozebud Cval',		    'rozebudcval',		    'The Creator of new matt wiik 4',	 '',	'0xFFC30085'],
+			['StarCannon RaymondVito EffectsTM',		    'starcannonraymondvitoeffectstm',		    'The Creator of matt wiik 100',	 '',	'0xFFC30085'],
                         ['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
