@@ -52,6 +52,7 @@ class CreditsState extends MusicBeatState
 			['Kay7',		    'kay7',		    'The tester of mod in mobile',	 'https://m.youtube.com/channel/UCT1w5Z3StJjiAQ7upxjVLYA',	'0xFFC30085'],
 			['Blue Crewmate',		    'blue',		    'The tester of mod in pc',	 '',	'0xFFC30085'],
                         ['Special Credits'],
+			['Blantados',		    'blantados',		    'The voice(utau) for songs of wiik 5-7',	 'https://m.youtube.com/c/Blantados21',	'0xFFC30085'],
 			['Sulayre',		    'sulayre',		    'The Creator of matt wiik 1 2',	 '',	'0xFFC30085'],
 			['silk88',		    'silk88',		    'The Creator of matt wiik 3',	 '',	'0xFFC30085'],
 			['Robomaster and more',		    'robomaster',		    'The Creator of matt wiik 4',	 '',	'0xFFC30085'],
